@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?><project-modules id="moduleCoreId" project-version="1.5.0">
+    <wb-module deploy-name="HON_PizzaParticipant">
+        <wb-resource deploy-path="/" source-path="/WebContent" tag="defaultRootSource"/>
+        <wb-resource deploy-path="/WEB-INF/classes" source-path="/src"/>
+        <property name="context-root" value="HON_PizzaParticipant"/>
+        <property name="java-output-path" value="/HON_PizzaParticipant/build/classes"/>
+    </wb-module>
+</project-modules>
